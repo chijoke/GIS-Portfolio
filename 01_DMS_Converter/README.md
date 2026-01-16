@@ -1,4 +1,4 @@
-# DMS to Decimal Degree Converter (pro)
+# Projec: DMS to Decimal Degree Converter (pro)
 
 A high-precision geospatial utility built to demonstrate **defensive programming** and **object-oriented design** in Python.
 
